@@ -1,12 +1,15 @@
 {
   "name": "@foomo/next-transpile-modules",
-  "version": "0.0.12-alpha.1",
+  "version": "0.0.12-alpha.2",
   "description": "NextJS plugin to transpile workspace packages",
   "main": "dist/index.js",
   "repository": "https://github.com/foomo/next-utils",
   "author": "@gosticks",
   "license": "MIT",
   "private": false,
+  "publicConfig": {
+    "access": "public"
+  },
   "scripts": {
     "build": "tsc -b tsconfig.json",
     "dev": "tsc -b -w tsconfig.json"
@@ -16,5 +19,5 @@
     "@types/webpack": "^5.28.0",
     "typescript": "^4.2.4"
   },
-  "gitHead": "d56a630029f4f4cf93a9968b296eb02732c7f4e3"
+  "gitHead": "53cf2e30a7b462a9ba6ea3e1a4bb50665d1f2a66"
 }
