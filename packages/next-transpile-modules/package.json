@@ -15,8 +15,8 @@
     "dev": "tsc -b -w tsconfig.json"
   },
   "dependencies": {
-    "enhanced-resolve":"^5.8.0",
-    "escalade":"^3.1.1"
+    "enhanced-resolve": "^5.8.0",
+    "escalade": "^3.1.1"
   },
   "devDependencies": {
     "@types/node": "^15.0.0",
