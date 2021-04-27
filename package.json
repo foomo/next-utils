@@ -1,12 +1,9 @@
 {
   "name": "@foomo/next-utils",
-  "private": false,
+  "private": true,
   "workspaces": [
     "packages/*"
   ],
-  "publicConfig": {
-    "access": "public"
-  },
   "devDependencies": {
     "lerna": "^4.0.0"
   }

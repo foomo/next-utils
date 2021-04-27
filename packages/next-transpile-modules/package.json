@@ -14,6 +14,10 @@
     "build": "tsc -b tsconfig.json",
     "dev": "tsc -b -w tsconfig.json"
   },
+  "dependencies": {
+    "enhanced-resolve":"^5.8.0",
+    "escalade":"^3.1.1"
+  },
   "devDependencies": {
     "@types/node": "^15.0.0",
     "@types/webpack": "^5.28.0",
