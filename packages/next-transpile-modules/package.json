@@ -1,6 +1,6 @@
 {
   "name": "@foomo/next-transpile-modules",
-  "version": "0.0.11-alpha.0",
+  "version": "0.0.12-alpha.0",
   "description": "NextJS plugin to transpile workspace packages",
   "main": "dist/index.js",
   "repository": "https://github.com/foomo/next-utils",
